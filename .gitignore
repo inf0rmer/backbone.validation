@@ -1,3 +1,7 @@
 .DS_STORE
 *.log
-node_modules
+node_modulesdist/backbone-validation-amd-min.js
+dist/backbone-validation-amd.js
+dist/backbone-validation-min.js
+dist/backbone-validation.js
+node_modules/
